@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java/main"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/jaxb-xjc-2.2.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/jdom-1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/mail-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/slf4j-api-1.5.10.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/slf4j-log4j12-1.5.10.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-aop-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-asm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-aspects-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-beans-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-context-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-context-support-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-core-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-expression-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-mock-2.0-m5.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-oxm-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-test-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-tx-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-web-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/spring-webmvc-3.0.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/runtime/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="/Users/8xo/esgProjects/sixthcolumn-snservices/lib/fetched/compile/servlet-api-2.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

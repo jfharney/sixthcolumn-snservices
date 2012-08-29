@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Discovery>
+  <Person>person2</Person>
+  <Action>action2</Action>
+  <SourceDiscovery>source2</SourceDiscovery>
+  <TargetDiscovery>target2</TargetDiscovery>
+</Discovery>
